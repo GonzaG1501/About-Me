@@ -15,8 +15,6 @@ Hello, my name is Gonzalo and I am a full stack developer specialized in back-en
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GonzaG1501&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## Proyects
-
 ---
 [![](https://visitcount.itsvg.in/api?id=GonzaG1501&icon=10&color=6)](https://visitcount.itsvg.in)
 
